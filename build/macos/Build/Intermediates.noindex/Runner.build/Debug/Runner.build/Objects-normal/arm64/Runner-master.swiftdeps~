@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
-options: "d587bc40a4a75e5d4ae77b2063253da7ef624d0b6946f6e8c2da19257daccb25"
-build_start_time: [1685328995, 224781990]
-build_end_time: [1685328997, 837914943]
-inputs:
-  "/Users/alexandergreene/Development/codelabs/next-gen-ui/step_06/macos/Flutter/GeneratedPluginRegistrant.swift": [1685328976, 31907558]
-  "/Users/alexandergreene/Development/codelabs/next-gen-ui/step_06/macos/Runner/AppDelegate.swift": [1685326640, 135433912]
-  "/Users/alexandergreene/Development/codelabs/next-gen-ui/step_06/macos/Runner/MainFlutterWindow.swift": [1685326640, 137197494]
